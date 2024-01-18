@@ -1,0 +1,6 @@
+[
+  {"text":"We've had no problems at all","label":"pos"},
+  {"text":"We hate this thing","label":"neg"},
+  {"text":"This thing needs a lot of improvement!",
+  "label":"neg"}
+]
